@@ -30,3 +30,4 @@ frase2 = `soy ${nombre} y estoy caminando`;
 console.log(frase2);
 
 // vas en el min 1:13
+

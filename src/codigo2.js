@@ -28,6 +28,8 @@ console.log(frase2);
 // en mi teclado es con fn + alt + esc
 frase2 = `soy ${nombre} y estoy caminando`;
 console.log(frase2);
+// document.write(frase2);
 
 // vas en el min 1:13
+
 

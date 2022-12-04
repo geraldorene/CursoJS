@@ -26,10 +26,15 @@ console.log(frase2);
 
 //  los backticks funcionan cin las comillas '' 
 // en mi teclado es con fn + alt + esc
-frase2 = `soy ${nombre} y estoy caminando`;
+// con los backticks puedes poner codigo html sin problema
+frase2 = `soy  ${nombre}  y estoy caminando`;
 console.log(frase2);
 // document.write(frase2);
 
 // vas en el min 1:13
 
+// escape de comillas simples y dobles 
+
+frase = "mi nombre es 'pancracio' y soy un crak";
+console.log(frase);
 

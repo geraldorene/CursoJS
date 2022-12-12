@@ -32,9 +32,54 @@ console.log(frase2);
 // document.write(frase2);
 
 // vas en el min 1:13
-
 // escape de comillas simples y dobles 
+// para poner "" en un texto debes de ponerlo entre '' y viceversa
 
-frase = "mi nombre es 'pancracio' y soy un crak";
-console.log(frase);
+// frase3 = "mi name es 'rene' y soy un crack";
+// console.log(frase3);
+// frase3 = 'mi name es "Rene" y soy un crack';
+
+// vas en el min 1:16
+//operadores 
+// de comparacion 
+
+let num1 = 23;
+let num2 = 13;
+
+let num3 = "23";
+let txt1 = "texto 1";
+let txt2 = "texto 2";
+
+// para comparar algo es == pero no importa el tipo de dato
+console.log(num1 == num2);
+
+// diferencia es != 
+console.log(txt1 != txt2);
+
+// compara que sean estrictamente iguales === tipo de dato y todo
+console.log(num1 === num3);
+
+// compara si no es estrictamente igiual !==
+console.log(num1 !== num3);
+
+// logicos
+let valor = true;
+let valor2 = true;
+
+// todo debe de ser verdadero
+let resultado = valor && valor2;
+// se cumple si almenos uno es verdadero
+let resultado2 = valor || valor2;
+
+// cambia el valor
+let x = 123;
+let y = 123;
+
+resultado3 = x == y;
+ 
+console.log(resultado);
+console.log(resultado2);
+console.log(!resultado3);
+
+// vas en el minuto 1:34
 

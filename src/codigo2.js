@@ -86,5 +86,17 @@ console.log(!resultado3);
 // camel case se usa en js
 // ejempl camelCase
 
-
+// condicionales sentencias
+// ejemplo
+// let nombre = "Rene Geraldo"
+// siempre se ejecuta el primer if 
+if(nombre == "rene"){
+    console.log('se cumple la sentencia' + nombre);
+}
+// else if puede haber x, if solo 1 igual que else 
+else if (nombre == "Geraldo"){
+    console.log("tu nombre es " + nombre );
+}else{
+    console.log("tu nombre es " + nombre);
+}
 

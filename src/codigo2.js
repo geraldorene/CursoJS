@@ -83,3 +83,8 @@ console.log(!resultado3);
 
 // vas en el minuto 1:34
 
+// camel case se usa en js
+// ejempl camelCase
+
+
+

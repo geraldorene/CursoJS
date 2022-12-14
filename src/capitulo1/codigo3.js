@@ -28,7 +28,8 @@ else if (dineroCofla >= 2.9) {
     alert(" cofla no te alcanza pobre de mierda ");
 }
 
-// vas en el minuto 2:00
+// vas en el minuto 2:00 pero ya son arrays vete a capitulo 2
+
 
 // let dineroPedro = prompt("cuanto dinero tiene pedro? ");
 
